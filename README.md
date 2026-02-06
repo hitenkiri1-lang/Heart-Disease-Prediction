@@ -76,13 +76,6 @@ The Streamlit UI allows users to:
 
 The app will open automatically in your browser.
 
-📁 Project Structure
-      Heart-Disease-Prediction/
-      │
-      ├── app.py          # Streamlit application & ML pipeline
-      ├── heart.csv       # Dataset
-      ├── README.md       # Project documentation
-
 ⚠️ Disclaimer
 
 This application is a study project created for learning and demonstration purposes.
