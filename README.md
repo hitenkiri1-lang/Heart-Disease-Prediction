@@ -66,26 +66,25 @@ The Streamlit UI allows users to:
     git clone https://github.com/your-username/Heart-Disease-Prediction.git
 
 2️⃣ Install dependencies
-pip install streamlit pandas numpy scikit-learn
+      
+      pip install streamlit pandas numpy scikit-learn
 
 3️⃣ Run the app
-streamlit run app.py
+      
+      streamlit run app.py
 
 
 The app will open automatically in your browser.
 
 📁 Project Structure
-Heart-Disease-Prediction/
-│
-├── app.py          # Streamlit application & ML pipeline
-├── heart.csv       # Dataset
-├── README.md       # Project documentation
+      Heart-Disease-Prediction/
+      │
+      ├── app.py          # Streamlit application & ML pipeline
+      ├── heart.csv       # Dataset
+      ├── README.md       # Project documentation
 
 ⚠️ Disclaimer
 
 This application is a study project created for learning and demonstration purposes.
 It must not be used for real medical diagnosis or treatment decisions.
 Always consult a qualified healthcare professional.
-
-cd Heart-Disease-Prediction
-
